@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Inicio on 8-bits</title>
-    <link>https://example.com/es/</link>
+    <link>https://miguelsimoni.github.io/hugo-8bits-site/es/</link>
     <description>Recent content in Inicio on 8-bits</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© Copyright 8-bits. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/es/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://miguelsimoni.github.io/hugo-8bits-site/es/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Guía de sintaxis de Markdown</title>
-      <link>https://example.com/es/post/markdown-syntax/</link>
+      <link>https://miguelsimoni.github.io/hugo-8bits-site/es/post/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/es/post/markdown-syntax/</guid>
+      <guid>https://miguelsimoni.github.io/hugo-8bits-site/es/post/markdown-syntax/</guid>
       <description>Este artículo ofrece una muestra de la sintaxis básica de Markdown que se puede utilizar en los archivos de contenido de Hugo, y también muestra si los elementos HTML básicos están decorados con CSS en un tema de Hugo. &amp;lt;! - más -&amp;gt;
 Encabezados Los siguientes elementos HTML &amp;lt;h1&amp;gt; —&amp;lt;h6&amp;gt;representan seis niveles de encabezados de sección. &amp;lt;h1&amp;gt; es el nivel de sección más alto mientras que &amp;lt;h6&amp;gt; es el más bajo.</description>
     </item>
     
     <item>
       <title>Sobre el sitio</title>
-      <link>https://example.com/es/about/</link>
+      <link>https://miguelsimoni.github.io/hugo-8bits-site/es/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/es/about/</guid>
+      <guid>https://miguelsimoni.github.io/hugo-8bits-site/es/about/</guid>
       <description>Escrito en Go, Hugo es un generador de sitios estáticos de código abierto disponible bajo la [Licencia Apache 2.0.] (Https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo es compatible con los tipos de archivos de datos TOML, YAML y JSON. , Markdown y archivos de contenido HTML y utiliza códigos cortos para agregar contenido enriquecido. Otras características notables son las taxonomías, el modo multilingüe, el procesamiento de imágenes, los formatos de salida personalizados, la minificación de HTML / CSS / JS y la compatibilidad con los flujos de trabajo Sass SCSS.</description>
     </item>
     
     <item>
       <title>Contáctanos</title>
-      <link>https://example.com/es/contact/</link>
+      <link>https://miguelsimoni.github.io/hugo-8bits-site/es/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/es/contact/</guid>
+      <guid>https://miguelsimoni.github.io/hugo-8bits-site/es/contact/</guid>
       <description>Envíanos un mensaje completanto la información solicitada abajo y presionando el botón Enviar.</description>
     </item>
     

@@ -2,197 +2,197 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/es/post/</loc>
+    <loc>https://miguelsimoni.github.io/hugo-8bits-site/es/post/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/post/"
+                href="https://miguelsimoni.github.io/hugo-8bits-site/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/es/post/"
+                href="https://miguelsimoni.github.io/hugo-8bits-site/es/post/"
                 />
   </url><url>
-    <loc>https://example.com/es/categories/</loc>
+    <loc>https://miguelsimoni.github.io/hugo-8bits-site/es/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="https://miguelsimoni.github.io/hugo-8bits-site/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/es/categories/"
+                href="https://miguelsimoni.github.io/hugo-8bits-site/es/categories/"
                 />
   </url><url>
-    <loc>https://example.com/es/tags/css/</loc>
+    <loc>https://miguelsimoni.github.io/hugo-8bits-site/es/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/css/"
+                href="https://miguelsimoni.github.io/hugo-8bits-site/tags/css/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/es/tags/css/"
+                href="https://miguelsimoni.github.io/hugo-8bits-site/es/tags/css/"
                 />
   </url><url>
-    <loc>https://example.com/es/post/markdown-syntax/</loc>
+    <loc>https://miguelsimoni.github.io/hugo-8bits-site/es/post/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/post/markdown-syntax/"
+                href="https://miguelsimoni.github.io/hugo-8bits-site/post/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/es/post/markdown-syntax/"
+                href="https://miguelsimoni.github.io/hugo-8bits-site/es/post/markdown-syntax/"
                 />
   </url><url>
-    <loc>https://example.com/es/tags/html/</loc>
+    <loc>https://miguelsimoni.github.io/hugo-8bits-site/es/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/html/"
+                href="https://miguelsimoni.github.io/hugo-8bits-site/tags/html/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/es/tags/html/"
+                href="https://miguelsimoni.github.io/hugo-8bits-site/es/tags/html/"
                 />
   </url><url>
-    <loc>https://example.com/es/</loc>
+    <loc>https://miguelsimoni.github.io/hugo-8bits-site/es/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="https://miguelsimoni.github.io/hugo-8bits-site/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/es/"
+                href="https://miguelsimoni.github.io/hugo-8bits-site/es/"
                 />
   </url><url>
-    <loc>https://example.com/es/tags/markdown/</loc>
+    <loc>https://miguelsimoni.github.io/hugo-8bits-site/es/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/markdown/"
+                href="https://miguelsimoni.github.io/hugo-8bits-site/tags/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/es/tags/markdown/"
+                href="https://miguelsimoni.github.io/hugo-8bits-site/es/tags/markdown/"
                 />
   </url><url>
-    <loc>https://example.com/es/series/</loc>
+    <loc>https://miguelsimoni.github.io/hugo-8bits-site/es/series/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/series/"
+                href="https://miguelsimoni.github.io/hugo-8bits-site/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/es/series/"
+                href="https://miguelsimoni.github.io/hugo-8bits-site/es/series/"
                 />
   </url><url>
-    <loc>https://example.com/es/categories/syntax/</loc>
+    <loc>https://miguelsimoni.github.io/hugo-8bits-site/es/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/syntax/"
+                href="https://miguelsimoni.github.io/hugo-8bits-site/categories/syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/es/categories/syntax/"
+                href="https://miguelsimoni.github.io/hugo-8bits-site/es/categories/syntax/"
                 />
   </url><url>
-    <loc>https://example.com/es/tags/</loc>
+    <loc>https://miguelsimoni.github.io/hugo-8bits-site/es/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="https://miguelsimoni.github.io/hugo-8bits-site/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/es/tags/"
+                href="https://miguelsimoni.github.io/hugo-8bits-site/es/tags/"
                 />
   </url><url>
-    <loc>https://example.com/es/categories/themes/</loc>
+    <loc>https://miguelsimoni.github.io/hugo-8bits-site/es/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/themes/"
+                href="https://miguelsimoni.github.io/hugo-8bits-site/categories/themes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/es/categories/themes/"
+                href="https://miguelsimoni.github.io/hugo-8bits-site/es/categories/themes/"
                 />
   </url><url>
-    <loc>https://example.com/es/series/themes-guide/</loc>
+    <loc>https://miguelsimoni.github.io/hugo-8bits-site/es/series/themes-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/series/themes-guide/"
+                href="https://miguelsimoni.github.io/hugo-8bits-site/series/themes-guide/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/es/series/themes-guide/"
+                href="https://miguelsimoni.github.io/hugo-8bits-site/es/series/themes-guide/"
                 />
   </url><url>
-    <loc>https://example.com/es/about/</loc>
+    <loc>https://miguelsimoni.github.io/hugo-8bits-site/es/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/about/"
+                href="https://miguelsimoni.github.io/hugo-8bits-site/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/es/about/"
+                href="https://miguelsimoni.github.io/hugo-8bits-site/es/about/"
                 />
   </url><url>
-    <loc>https://example.com/es/contact/</loc>
+    <loc>https://miguelsimoni.github.io/hugo-8bits-site/es/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/contact/"
+                href="https://miguelsimoni.github.io/hugo-8bits-site/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/es/contact/"
+                href="https://miguelsimoni.github.io/hugo-8bits-site/es/contact/"
                 />
   </url><url>
-    <loc>https://example.com/es/tags/index/</loc>
+    <loc>https://miguelsimoni.github.io/hugo-8bits-site/es/tags/index/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/index/"
+                href="https://miguelsimoni.github.io/hugo-8bits-site/tags/index/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/es/tags/index/"
+                href="https://miguelsimoni.github.io/hugo-8bits-site/es/tags/index/"
                 />
   </url>
 </urlset>
