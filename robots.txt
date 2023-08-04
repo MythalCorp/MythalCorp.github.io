@@ -1,49 +1,49 @@
 User-agent: *
 
 
-Disallow: /hugo-8bits-site/categories/
+Disallow: /categories/
 
-Disallow: /hugo-8bits-site/tags/css/
+Disallow: /tags/css/
 
-Disallow: /hugo-8bits-site/
+Disallow: /
 
-Disallow: /hugo-8bits-site/tags/html/
+Disallow: /tags/html/
 
-Disallow: /hugo-8bits-site/tags/markdown/
+Disallow: /tags/markdown/
 
-Disallow: /hugo-8bits-site/post/markdown-syntax/
+Disallow: /post/markdown-syntax/
 
-Disallow: /hugo-8bits-site/post/
+Disallow: /post/
 
-Disallow: /hugo-8bits-site/series/
+Disallow: /series/
 
-Disallow: /hugo-8bits-site/categories/syntax/
+Disallow: /categories/syntax/
 
-Disallow: /hugo-8bits-site/tags/
+Disallow: /tags/
 
-Disallow: /hugo-8bits-site/categories/themes/
+Disallow: /categories/themes/
 
-Disallow: /hugo-8bits-site/series/themes-guide/
+Disallow: /series/themes-guide/
 
-Disallow: /hugo-8bits-site/tags/privacy/
+Disallow: /tags/privacy/
 
-Disallow: /hugo-8bits-site/post/rich-content/
+Disallow: /post/rich-content/
 
-Disallow: /hugo-8bits-site/tags/shortcodes/
+Disallow: /tags/shortcodes/
 
-Disallow: /hugo-8bits-site/post/placeholder-text/
+Disallow: /post/placeholder-text/
 
-Disallow: /hugo-8bits-site/tags/text/
+Disallow: /tags/text/
 
-Disallow: /hugo-8bits-site/post/math-typesetting/
+Disallow: /post/math-typesetting/
 
-Disallow: /hugo-8bits-site/tags/emoji/
+Disallow: /tags/emoji/
 
-Disallow: /hugo-8bits-site/post/emoji-support/
+Disallow: /post/emoji-support/
 
-Disallow: /hugo-8bits-site/about/
+Disallow: /about/
 
-Disallow: /hugo-8bits-site/contact/
+Disallow: /contact/
 
-Disallow: /hugo-8bits-site/tags/index/
+Disallow: /tags/index/
 
